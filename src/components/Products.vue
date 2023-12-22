@@ -1,5 +1,31 @@
 <script>
+  export default {
+    data() {
+      return {
+        products: [
+          {
+            id: '1',
+            name: 'airpods'
+          },
+          {
+            id: '2',
+            name: 'kindle'
+          },
+          {
+            id: '3',
+            name: 'keyboard'
+          },
+          {
+            id: '4',
+            name: 'laptop'
+          }
+        ]
+      }
+    }
+  }
 </script>
 <template>
-  <h1>Produkte</h1>
+  <div v-for='product in products' :key='product.id'>
+    <h3>{{product.id}}: {{product.name}}</h3>
+  </div>
 </template>
