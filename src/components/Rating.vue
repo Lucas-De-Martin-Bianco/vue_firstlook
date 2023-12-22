@@ -14,9 +14,10 @@
     }
   }
 </script>
+
 <template>
   <div>
-    <p>Rating: {{ rating }}</p>
+    <p>Bewertung: {{ rating }}</p>
     <span :style="{ color: color }" v-on:click="assignRating(1)">
       <i v-if="rating >= 1" class="bi bi-heart-fill"></i>
       <i v-else class="bi bi-heart text-black"></i>

@@ -67,6 +67,7 @@ export default {
   },
 };
 </script>
+
 <template>
   <div v-for="product in products" :key="product.id">
     <Product :data="product" />
