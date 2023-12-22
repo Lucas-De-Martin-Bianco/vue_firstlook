@@ -10,7 +10,7 @@ export default {
       products: [
         {
           id: "1",
-          imageUrl: "http://www.gunshopschweiz.ch/Product/Show/6442",
+          imageUrl: "https://i.redd.it/mb0soceyck141.jpg",
           productName: "Taurus Raging Bull (2-454089M)",
           price: "1231.-",
           releasedDate: "May 31, 2023",
