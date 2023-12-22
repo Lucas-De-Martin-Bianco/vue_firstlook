@@ -10,7 +10,7 @@ export default {
       products: [
         {
           id: "1",
-          imageUrl: "./src/assets/images/Colt_Python.jpg",
+          imageUrl: "http://www.gunshopschweiz.ch/Product/Show/6442",
           productName: "Taurus Raging Bull (2-454089M)",
           price: "1231.-",
           releasedDate: "May 31, 2023",
@@ -19,7 +19,7 @@ export default {
         },
         {
           id: "2",
-          imageUrl: "./src/assets/images/Standard_Manufacturing_S333.png",
+          imageUrl: "http://www.gunshopschweiz.ch/Product/Show/6468",
           productName: "Standard Manufacturing S333",
           price: "1562.-",
           releasedDate: "October 31, 2023",
@@ -28,7 +28,7 @@ export default {
         },
         {
           id: "3",
-          imageUrl: "./src/assets/images/SIG_SAUER_Cross.png",
+          imageUrl: "http://www.gunshopschweiz.ch/Product/Show/6580",
           productName: "SIG SAUER Cross",
           price: "2203.-",
           releasedDate: "May 31, 2023",
@@ -37,7 +37,7 @@ export default {
         },
         {
           id: "4",
-          imageUrl: "./src/assets/images/Maschinengewehr_Degtjarjow.png",
+          imageUrl: "http://www.gunshopschweiz.ch/Product/Show/6357",
           productName: "Maschinengewehr Degtjarjow",
           price: "1153.-",
           releasedDate: "May 1, 1233",
@@ -46,7 +46,7 @@ export default {
         },
         {
           id: "5",
-          imageUrl: "./src/assets/images/IWI_Tavor.png",
+          imageUrl: "http://www.gunshopschweiz.ch/Product/Show/5467",
           productName: "IWI Tavor",
           price: "2093.-",
           releasedDate: "October 31, 1980",
@@ -55,7 +55,7 @@ export default {
         },
         {
           id: "6",
-          imageUrl: "./src/assets/images/SIG_SAUER_P320_Spectre.png",
+          imageUrl: "http://www.gunshopschweiz.ch/Product/Show/5366",
           productName: "SIG SAUER P320 Spectre",
           price: "6783.-",
           releasedDate: "May 3, 2021",

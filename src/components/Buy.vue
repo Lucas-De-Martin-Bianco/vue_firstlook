@@ -7,7 +7,7 @@
     },
     computed: {
       buttonText() {
-        return this.bought ? 'Bought' : 'Buy';
+        return this.bought ? 'Gekauft' : 'Kaufen';
       },
     },
     methods: {
