@@ -19,6 +19,7 @@
     },
   };
 </script>
+
 <template>
     <div>
       <button
@@ -31,7 +32,8 @@
       </button>
     </div>
 </template>
-<style scoped>
+
+<style>
   .btn-success {
     background-color: green;
     color: white;
