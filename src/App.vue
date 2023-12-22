@@ -1,13 +1,19 @@
 <script>
-import Products from './components/Products.vue';
+  import Rating from './components/Rating.vue';
 
-export default {
-  components: {
-    Products
+  export default {
+    components: {
+      Rating
+    }
   }
-}
 </script>
 
 <template>
-  <Products />
+  <div>
+    <Rating initialRating='1' />
+    <Rating initialRating='2' />
+    <Rating initialRating='3' />
+    <Rating initialRating='4' />
+    <Rating initialRating='5' />
+  </div>
 </template>
