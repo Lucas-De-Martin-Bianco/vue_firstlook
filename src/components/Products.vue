@@ -28,7 +28,7 @@ export default {
         },
         {
           id: "3",
-          imageUrl: "https://preview.redd.it/heta2hahz4ea1.jpg?width=640&crop=smart&auto=webp&s=ff429a857b74c5bec8ecf0d1a591a0e9bd73e48c",
+          imageUrl: "https://preview.redd.it/t2qsby5oe9ta1.jpg?width=640&crop=smart&auto=webp&s=af23abddc553f3acf35d0adbae75571a5eda3c8c",
           productName: "SIG SAUER Cross",
           price: "2203.-",
           releasedDate: "May 31, 2023",
